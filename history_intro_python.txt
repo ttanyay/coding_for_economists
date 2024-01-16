@@ -1,0 +1,19 @@
+    1  git remote add origin git@github.com:ttanyay/coding_for_economists_2024.git
+    2  git remote -v
+    3  git remote set-url origin https://github.com/ttanyay/coding_for_economists.git
+    4  git branch -M main
+    5  git branch -M main
+    6  git push -u origin main
+    7  git remote add origin git@github.com:ttanyay/coding_for_economists.git
+    8  git branch -M main
+    9  git push -u origin main
+   10  git remote -v
+   11  git remote set-url origin https://coding_for_economists@github.com/ttanyay/coding_for_economists.git
+   12  git branch -M main
+   13  git push -u origin main
+   14  git add main.py
+   15  git commit "Coded solution to string slicing exercise" 
+   16  git commit -m "Coded solution to string slicing exercise"
+   17  git push -u origin main
+   18  history
+   19  history > history_intro_python.txt
