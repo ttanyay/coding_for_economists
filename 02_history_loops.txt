@@ -1,0 +1,30 @@
+    1  git add history_intro_python.txt 
+    2  git commit -m "added history_intro_python.txt"
+    3  git config --global user.email "yakushina.tanya@gmail.com"
+    4  git config --global user.name "Tatyana Yakushina"
+    5  git commit -m "added history_intro_python.txt"
+    6  git add history_intro_python.txt 
+    7  git commit -m "added history_intro_python.txt"
+    8  git push
+    9  git push
+   10  git config --global user.name "ttanyay"
+   11  git push
+   12  git push --force
+   13  python
+   14  rm main.py 06_conditionals.py
+   15  touch main.py
+   16  mv main.py 06_python_code.py
+   17  git add 06_python_code.py 
+   18  git commit -m "Added vannila #6 (empty)"
+   19  git push
+   20  touch main.py
+   21  mv main.py 07_python_loops.py
+   22  git add 07_python_loops.py 
+   23  git commit -m "Added code about looooooops"
+   24  git push
+   25  git statu
+   26  git status
+   27  git add 02_basic_python.py 
+   28  git commit -m "Added some minor changes"
+   29  git push
+   30  history > 02_history_loops.txt
